@@ -1,0 +1,24 @@
+{
+  "name": "PaydayPilot \u2014 Your Money, Clearer",
+  "short_name": "PaydayPilot",
+  "description": "Plan paychecks, bills, and savings with confidence.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091320",
+  "theme_color": "#0b1423",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
